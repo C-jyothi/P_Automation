@@ -1,0 +1,7 @@
+This is a sample company report.
+
+The company sells laptops, computers and mobile phones.
+
+The total sales for this month are 500000 rupees.
+
+This report is created to test the Python duplicate file finder program.

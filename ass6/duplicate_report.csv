@@ -1,0 +1,4 @@
+Duplicate Group,File Path,File Size (Bytes),File Size (MB),Duplicate Copies,Potential Space Savings (MB)
+1,C:\Python_Automation\ass6\files_to_check\Backup\report_copy.txt,222,0.0,2,0.0
+1,C:\Python_Automation\ass6\files_to_check\Documents\report.txt,222,0.0,2,0.0
+1,C:\Python_Automation\ass6\files_to_check\OldFiles\document_01.txt,222,0.0,2,0.0

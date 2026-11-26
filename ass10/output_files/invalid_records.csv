@@ -1,0 +1,7 @@
+Name,Email,Phone,Age,Department,Errors
+Mary,marygmail.com,9876543211,30,HR,Email has an invalid email format
+Alex,alex@gmail.com,9876543212,15,Sales,Age must be at least 18
+David,,9876543213,28,Finance,Email is missing
+Priya,priya@gmail.com,9876543214,65,Marketing,Age must not exceed 60; Department contains an unallowed value
+Anu,anu@gmail.com,12345,35,IT,Phone must contain 10 digits
+John,john@gmail.com,9876543210,25,IT,Duplicate record

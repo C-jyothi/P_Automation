@@ -1,0 +1,2 @@
+Monthly Sales Report
+Total Sales: 50000

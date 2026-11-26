@@ -1,0 +1,5 @@
+Learning Python is interesting.
+
+I am practising file handling and automation.
+
+This is a different file for testing.
